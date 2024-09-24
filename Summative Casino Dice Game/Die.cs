@@ -5,7 +5,7 @@ using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Topic_5._5___More_Classes
+namespace Summative_Casino_Dice_Game
 {
     public class Die
     {
